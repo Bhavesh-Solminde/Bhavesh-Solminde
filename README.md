@@ -14,7 +14,7 @@
 - 🔭 I’m currently building **an exciting full-stack project** with a focus on real-time user interaction.
 - 🌱 I’m currently learning **TypeScript** and diving into **cloud technologies like Docker**.
 - 👯 I’m looking to collaborate on **interesting web development projects** and contribute to open source.
-- 📫 You can connect with me via **bhavesh.solminde.dev@gmail.com**.
+- 📫 You can connect with me via **bhavesh.solminde@gmail.com**.
 
 ---
 
