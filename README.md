@@ -107,7 +107,7 @@
     <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" alt="Render" width="40" height="40"/>
   </a>
   <a href="https://www.hostinger.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/hostinger_logo_icon_171066.png" alt="Hostinger" width="40" height="40"/>
+    <img src="[https://cdn.icon-icons.com/icons2/2699/PNG/512/hostinger_logo_icon_171066.png](https://www.hostinger.com/)" alt="Hostinger" width="40" height="40"/>
   </a>
 </p>
 
