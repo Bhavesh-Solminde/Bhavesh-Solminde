@@ -37,6 +37,8 @@
   <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" height="30"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" height="30"/></a>
   <a href="#"><img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=white" height="30"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white" height="30"/></a>
 </p>
 
 ### ⚙️ Backend & Databases
