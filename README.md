@@ -73,7 +73,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavesh-solminde&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true&border_radius=10" alt="bhavesh-solminde top languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavesh-solminde&theme=dracula&hide_border=true&border_radius=10" alt="bhavesh-solminde GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=bhavesh-solminde&theme=dracula&hide_border=true&border_radius=10" alt="bhavesh-solminde GitHub streak" />
 </p>
 
 ---
