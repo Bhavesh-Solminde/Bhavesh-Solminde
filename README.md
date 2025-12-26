@@ -48,9 +48,9 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Resumer](https://github.com/Bhavesh-Solminde/Resumer)** | AI-powered tool to parse, optimize and build resumes for ATS and for recruiters. | `React.js` `Tailwind` `Google Cloud` `JavaScript` `OpenAI` `Gemini` |
-| **[Hostara](https://github.com/Bhavesh-Solminde/Hostara)** | A full-stack property management and listing platform. | `EJS` `Node.js` `Redux` `Bootstrap` |
-| **[Chat App](https://github.com/Bhavesh-Solminde/Chat-app)** | Real-time messaging application with live socket connections. | `React` `Tailwind` `Node.js` `Socket.io` |
+| **[Resumer](https://github.com/Bhavesh-Solminde/Resumer)** | AI-powered tool to parse, optimize and build resumes for ATS and for recruiters. | `React.js` `Tailwind` `Google Cloud` `JavaScript` `Gemini` `Zustand` |
+| **[Hostara](https://github.com/Bhavesh-Solminde/Hostara)** | A full-stack property management and listing platform. | `EJS` `Node.js` `Bootstrap` |
+| **[Chat App](https://github.com/Bhavesh-Solminde/Chat-app)** | Real-time messaging application with live socket connections. | `React` `Tailwind` `Node.js` `Socket.io` `Zustand` |
 
 ---
 
@@ -66,7 +66,7 @@ I am currently a second-year student at Mumbai University. My development philos
 
 ## 📊 Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavesh-solminde&show_icons=true&locale=en&theme=transparent&hide_border=true&title_color=000&text_color=000&icon_color=000" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavesh-solminde&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=000" height="150" alt="langs" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhavesh-solminde&show_icons=true&locale=en&theme=tokyonight&hide_border=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavesh-solminde&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="langs" />
 </p>
