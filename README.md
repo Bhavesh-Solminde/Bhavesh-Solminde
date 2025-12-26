@@ -27,12 +27,12 @@
 
 **Frontend**
 <br>
-<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
 
 **Backend & Devops**
 <br>
@@ -58,8 +58,8 @@
 
 I am currently a second-year student at Mumbai University. My development philosophy prioritizes type safety and component reusability.
 
-* **Core Stack:** Next.js, TypeScript, Node.js.
-* **UI Preference:** shadcn/ui + Tailwind CSS (but experienced with Bootstrap).
+* **Core Stack:** React, TypeScript, Node.js.
+* **UI Preference:** shadcn/ui + Tailwind CSS and Bootstrap.
 * **DSA:** Solving problems in **Java**.
 
 ---
