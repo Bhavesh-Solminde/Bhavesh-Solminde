@@ -67,6 +67,6 @@ I am currently a second-year student at Mumbai University. My development philos
 ## 📊 Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavesh-solminde&show_icons=true&locale=en&theme=tokyonight&hide_border=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavesh-solminde&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhavesh-Solminde&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhavesh-Solminde&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </p>
