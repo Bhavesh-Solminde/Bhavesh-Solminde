@@ -16,26 +16,6 @@
 
 ---
 
-## ⚡ Current Focus
-
-I am currently a second-year student at Mumbai University. My development philosophy prioritizes type safety and component reusability.
-
-* **Core Stack:** Next.js, TypeScript, Node.js.
-* **UI Preference:** shadcn/ui + Tailwind CSS (but experienced with Bootstrap).
-* **DSA:** Solving problems in **Java**.
-
----
-
-## 📂 Featured Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Resume Optimizer](https://github.com/Bhavesh-Solminde/Resumer)** | AI-powered tool to parse and optimize resumes for ATS. | `Next.js` `TypeScript` `OpenAI` |
-| **[Hostara](https://github.com/Bhavesh-Solminde/Hostara)** | A full-stack property management and listing platform. | `MERN Stack` `Redux` `Tailwind` |
-| **[Chat App](https://github.com/Bhavesh-Solminde/Chat-app)** | Real-time messaging application with live socket connections. | `React` `Node.js` `Socket.io` |
-
----
-
 ## 🛠️ Technical Stack
 
 **Languages**
@@ -61,6 +41,26 @@ I am currently a second-year student at Mumbai University. My development philos
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Resumer](https://github.com/Bhavesh-Solminde/Resumer)** | AI-powered tool to parse, optimize and build resumes for ATS and for recruiters. | `React.js` `Tailwind` `Google Cloud` `JavaScript` `OpenAI` `Gemini` |
+| **[Hostara](https://github.com/Bhavesh-Solminde/Hostara)** | A full-stack property management and listing platform. | `EJS` `Node.js` `Redux` `Bootstrap` |
+| **[Chat App](https://github.com/Bhavesh-Solminde/Chat-app)** | Real-time messaging application with live socket connections. | `React` `Tailwind` `Node.js` `Socket.io` |
+
+---
+
+## ⚡ Current Focus
+
+I am currently a second-year student at Mumbai University. My development philosophy prioritizes type safety and component reusability.
+
+* **Core Stack:** Next.js, TypeScript, Node.js.
+* **UI Preference:** shadcn/ui + Tailwind CSS (but experienced with Bootstrap).
+* **DSA:** Solving problems in **Java**.
 
 ---
 
