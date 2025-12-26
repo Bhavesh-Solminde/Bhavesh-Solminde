@@ -6,8 +6,11 @@
 </p>
 
 <p align="center">
+  <a href="https://bhaveshsolminde.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-bhaveshsolminde.dev-black?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
   <a href="mailto:bhavesh.solminde@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bhavesh.solminde%40gmail.com-black?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-bhavesh.solminde%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/bhaveshsolminde">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
@@ -48,7 +51,7 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Resumer](https://github.com/Bhavesh-Solminde/Resumer)** | AI-powered tool to parse, optimize and build resumes for ATS and for recruiters. | `React.js` `Tailwind` `Google Cloud` `JavaScript` `Gemini` `Zustand` |
+| **[Resumer](https://github.com/Bhavesh-Solminde/Resumer)** | AI-powered tool to parse, optimize and build resumes for ATS and for recruiters. | `React.js` `Tailwind` `Google Cloud` `Gemini` `Zustand` |
 | **[Hostara](https://github.com/Bhavesh-Solminde/Hostara)** | A full-stack property management and listing platform. | `EJS` `Node.js` `Bootstrap` |
 | **[Chat App](https://github.com/Bhavesh-Solminde/Chat-app)** | Real-time messaging application with live socket connections. | `React` `Tailwind` `Node.js` `Socket.io` `Zustand` |
 
@@ -66,7 +69,9 @@ I am currently a second-year student at Mumbai University. My development philos
 
 ## 📊 Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhavesh-Solminde&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhavesh-Solminde&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-</p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhavesh-Solminde&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Bhavesh-Solminde&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
