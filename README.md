@@ -51,7 +51,7 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Resumer](https://github.com/Bhavesh-Solminde/Resumer)** | AI-powered tool to parse, optimize and build resumes for ATS and for recruiters. | `React.js` `Tailwind` `Google Cloud` `Gemini` `Zustand` |
+| **[Resumer](https://github.com/Bhavesh-Solminde/Resumer)** | AI-powered tool to parse, optimize and build resumes for ATS and for recruiters. | `React.js` `Tailwind` `TypeScript` `Gemini` `Zustand` |
 | **[Hostara](https://github.com/Bhavesh-Solminde/Hostara)** | A full-stack property management and listing platform. | `EJS` `Node.js` `Bootstrap` |
 | **[Chat App](https://github.com/Bhavesh-Solminde/Chat-app)** | Real-time messaging application with live socket connections. | `React` `Tailwind` `Node.js` `Socket.io` `Zustand` |
 
