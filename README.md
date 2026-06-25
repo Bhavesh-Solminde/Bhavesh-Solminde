@@ -91,14 +91,14 @@ const bhavesh = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<span align="center">
  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh-Solminde&layout=compact&theme=tokyonight&hide_border=true&langs_count=7"/>
-</div>
+</span>
 
-<div align="center">
+<span align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavesh-Solminde&theme=tokyonight&hide_border=true" />
-</div>
+</span>
 
 <br/>
 
@@ -114,7 +114,6 @@ const bhavesh = {
 
 ## ⚡ Currently
 
-- 🏗️ Building agentic AI systems @ Surfboard
 - 📚 Deep in LangChain Academy — Weeks 6–7 (TypeScript)
 - 🔥 Grinding LeetCode for DSA
 
