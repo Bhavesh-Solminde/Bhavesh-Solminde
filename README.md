@@ -1,6 +1,9 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:0288D1,100:26C6DA&height=200&section=header&text=Bhavesh%20Solminde&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20Engineer&descAlignY=58&descSize=18&descColor=e0f7fa" />
-</div>
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D47A1,50:0288D1,100:26C6DA&text=Bhavesh%20Solminde&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20•%20AI%20Engineer&descAlignY=58&descColor=e0f7fa"
+  />
+</p>
 
 <p align="center">
   <a href="https://bhaveshsolminde.dev">
@@ -89,7 +92,7 @@ const bhavesh = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bhavesh-Solminde&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+ 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh-Solminde&layout=compact&theme=tokyonight&hide_border=true&langs_count=7"/>
 </div>
 
@@ -117,6 +120,9 @@ const bhavesh = {
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26C6DA,50:0288D1,100:0D47A1&height=100&section=footer" />
-</div>
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:26C6DA,50:0288D1,100:0D47A1"
+  />
+</p>
