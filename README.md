@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bhavesh%20Solminde&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20Engineer&descAlignY=58&descSize=18&descColor=a0aec0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:0288D1,100:26C6DA&height=200&section=header&text=Bhavesh%20Solminde&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20Engineer&descAlignY=58&descSize=18&descColor=e0f7fa" />
 </div>
 
 <p align="center">
@@ -118,5 +118,5 @@ const bhavesh = {
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26C6DA,50:0288D1,100:0D47A1&height=100&section=footer" />
 </div>
