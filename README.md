@@ -22,12 +22,13 @@
 
 <br/>
 
+<img align="right" alt="coding" width="380" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+
 ```typescript
 const bhavesh = {
   role:     "Full-Stack Engineer & AI Engineer",
-  location: "Mumbai, India 🇮🇳",
+  location: "Mumbai, India",
   mantra:   "Ship first. Ask why. Repeat.",
-  now:      ["Building @ Surfboard (AI Intern)", "Registered for Flipkart GRiD 8.0"],
   obsessed: ["LangGraph agents", "RAG pipelines", "Systems that scale"],
   funFact:  "I'd rather break prod at 2am than stare at a whiteboard.",
 };
@@ -35,7 +36,7 @@ const bhavesh = {
 
 <br/>
 
-## 🚀 What I've Shipped
+## ▸ What I've Shipped
 
 | Project | What it does | Stack | Live |
 | :--- | :--- | :--- | :---: |
@@ -45,8 +46,8 @@ const bhavesh = {
 | **[Hostara](https://github.com/Bhavesh-Solminde/Hostara)** | Full-stack property listing platform with Cloudinary CDN | `React` `Express` `MongoDB` | [↗](https://hostara.onrender.com) |
 
 <br/>
-
-## 🛠️ Tech Stack
+<span>
+## ▸ Tech Stack
 
 **Languages**
 
@@ -86,13 +87,18 @@ const bhavesh = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+</span>
 
+<span>
+<p align="center">
+  <img src="YOUR_GIPHY_DIRECT_LINK.gif" width="380" />
+</p>
+</span>
 <br/>
 
-## 📊 GitHub Stats
+## ▸ GitHub Stats
 
 <span align="center">
- 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh-Solminde&layout=compact&theme=tokyonight&hide_border=true&langs_count=7"/>
 </span>
 
@@ -102,7 +108,7 @@ const bhavesh = {
 
 <br/>
 
-## 💼 Experience
+## ▸ Experience
 
 **Surfboard Ventures** — *AI Engineer Intern* `Jun 2026`
 > Built and tested LangChain + LangGraph agentic workflows in TypeScript for Langoor, their production AI product.
@@ -112,10 +118,16 @@ const bhavesh = {
 
 <br/>
 
-## ⚡ Currently
 
-- 📚 Deep in LangChain Academy — Weeks 6–7 (TypeScript)
-- 🔥 Grinding LeetCode for DSA
+## ▸ Currently
+
+- → Deep in LangChain Academy — Weeks 6–7 (TypeScript)
+- → Grinding LeetCode for DSA
+
+<br/>
+
+
+*「 कर्म एव धर्मः — Action is the only truth. 」*
 
 <br/>
 
