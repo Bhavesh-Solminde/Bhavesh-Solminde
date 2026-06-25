@@ -127,7 +127,7 @@ const bhavesh = {
 <br/>
 
 
-*「 कर्म एव धर्मः — Action is the only truth. 」*
+*「 श्रद्धावान् लभते ज्ञानम् — The obsessed one gains knowledge. 」*
 
 <br/>
 
